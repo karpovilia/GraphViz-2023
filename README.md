@@ -13,8 +13,8 @@
 | Date        | Description                       | Important Notes and Materials | Recordings' links on YouTube                         |
 | ----------- | --------------------------------- | ----------------------------- | ---------------------------------------------------- |
 | 2023 jan 10 | week 01                           |                               | [video](https://youtu.be/euigwndn984)                |
-| 2023 jan 17 | week 02                           |                               | [video](https://www.youtube.com/watch?v=rX3loLCD5oc) |
-| 2023 jan 24 | week 03                           |                               | [video](https://www.youtube.com/watch?v=XVOL13H5Gcs) |
+| 2023 jan 17 | week 02                           |                               | [video](https://youtu.be/rX3loLCD5oc) |
+| 2023 jan 24 | week 03                           |                               | [video](https://youtu.be/XVOL13H5Gcs) |
 | 2023 feb 04 | week 04                           |                               |                                                      |
 | 2023 feb 11 | week 05                           |                               | [video](https://youtu.be/psqRAdzNszk)                |
 | 2023 feb 14 | week 06                           |                               | [video](https://www.youtube.com/watch?v=ix7oRik9Nas) |
